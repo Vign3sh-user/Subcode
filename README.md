@@ -30,6 +30,5 @@ After successfully installing Subcode, you can use it to discover live subdomain
 
    python3 subcode.py targets.txt
 
-![Subcode](https://github.com/Vign3sh-user/subcode/assets/117492322/0258d536-bbcf-4c42-a03a-ebaa4a63a3b3)
-
+![Screenshot](https://github.com/user-attachments/assets/8fcca63b-f27d-4348-8a41-490839372436)
 
