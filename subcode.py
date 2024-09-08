@@ -20,7 +20,7 @@ def banner():
   ___) | |_| | |_) | | (__| |_| | (_| |___) |
  |____/ \__,_|_.__/   \___|\___/ \__,_|____/ 
 
-                                - Vign3sh-user
+                                - vignesh-user
           
 {yellow}[Please be patient; it takes some time to generate the output]{nocolor}
 """)
